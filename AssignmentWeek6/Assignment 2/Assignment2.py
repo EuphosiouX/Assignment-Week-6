@@ -21,5 +21,3 @@ for x in prices and stock:
          total += stock_and_price 
 
 print("Grand total:",total)
-
-
