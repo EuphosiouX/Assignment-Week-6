@@ -24,6 +24,5 @@ def compute_bill(food):
         else:
             print(items,"not in stock")
     return total
-
 print("Total Bill:",compute_bill(groceries))
 print("Final Stock:",stock)
